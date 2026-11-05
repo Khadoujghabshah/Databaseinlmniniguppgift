@@ -1,0 +1,14 @@
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\bin\Debug\net10.0\Inlämninguppgift.exe
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\bin\Debug\net10.0\Inlämninguppgift.deps.json
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\bin\Debug\net10.0\Inlämninguppgift.runtimeconfig.json
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\bin\Debug\net10.0\Inlämninguppgift.dll
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\bin\Debug\net10.0\Inlämninguppgift.pdb
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\Inlämninguppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\Inlämninguppgift.AssemblyInfoInputs.cache
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\Inlämninguppgift.AssemblyInfo.cs
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\Inlämninguppgift.csproj.CoreCompileInputs.cache
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\Inlämninguppgift.dll
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\refint\Inlämninguppgift.dll
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\Inlämninguppgift.pdb
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\Inlämninguppgift.genruntimeconfig.cache
+C:\Users\Khado\OneDrive\Documents\JensenLektionerC#\Uppgift\Inlämninguppgift\obj\Debug\net10.0\ref\Inlämninguppgift.dll

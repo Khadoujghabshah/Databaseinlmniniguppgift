@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS recipe;
+DROP TABLE IF EXISTS ingredients;
+DROP TABLE IF EXISTS product;
+
+DROP TABLE IF EXISTS suppliers;
+DROP TABLE IF EXISTS supplieringredients;
+DROP TABLE IF EXISTS person;
